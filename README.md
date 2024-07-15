@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @vigneshmersal
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @vignesh
+- 👀 I’m interested in web backend development
+- 🌱 I’m currently learning Fullstack development
+- 💞️ I’m looking to collaborate on WFH Jobs
+- 📫 vignesh.hello@gmail.com
 
-<!---
-vigneshmersal/vigneshmersal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+✨ Laravel Backend Developer ✨

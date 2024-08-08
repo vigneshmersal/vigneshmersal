@@ -1,4 +1,4 @@
-👋 Hi, I’m @vignesh
+👋 Hi, I’m @vignesh ❤
 
 👀 I’m interested in Web Development
 
@@ -20,28 +20,34 @@ Worked on multiple projects and worked in startups, corporates. 🚀
 ### Backend
 - `Technology`: REST
 - `Frameworks`: Laravel ![](https://geps.dev/progress/80)
-- `Authentication`: SSO/OAUTH 2.0, Passport, JWT, Sanctum
+- `Authentication`: SSO/OAUTH 2.0, Passport ![](https://geps.dev/progress/80), JWT, Sanctum ![](https://geps.dev/progress/80)
 - `Caching`: Redis
-- `Template Engine`: Blade
-- `OS`: Linux, Windows, Mac
+- `Template Engine`: Blade ![](https://geps.dev/progress/90)
+- `OS`: Linux ![](https://geps.dev/progress/70), Windows ![](https://geps.dev/progress/80), Mac ![](https://geps.dev/progress/70)
 
 ### Frontend
-- `Basics`: HTML ![](https://geps.dev/progress/90), CSS ![](https://geps.dev/progress/90), JavaScript ![](https://geps.dev/progress/80)
-- `Netword Utilities`: Axios ![](https://geps.dev/progress/80), Fetch ![](https://geps.dev/progress/80), Postman ![](https://geps.dev/progress/70)
-- `Styles`: Tailwind ![](https://geps.dev/progress/60), Bootstrap ![](https://geps.dev/progress/70), SASS/SCSS
+- `Basics`: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20"> HTML ![](https://geps.dev/progress/90), <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="20"> CSS ![](https://geps.dev/progress/90), <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20"> JavaScript ![](https://geps.dev/progress/80)
+- `Netword Utilities`: Axios ![](https://geps.dev/progress/80), Fetch ![](https://geps.dev/progress/80), <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="20"/> Postman ![](https://geps.dev/progress/70)
+- `Styles`: <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="20"> Tailwind ![](https://geps.dev/progress/60), <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="20"> Bootstrap ![](https://geps.dev/progress/70), <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="20"> SASS/SCSS
 - `Frameworks`: Vue.js ![](https://geps.dev/progress/20)
 
 ### Database
-- `SQL`: MySQL ![](https://geps.dev/progress/80) , Redis
+- `SQL`: MySQL ![](https://geps.dev/progress/80), Redis ![](https://geps.dev/progress/70)
 - `NoSQL`: ElasticSearch
 - `Cloud`: RDS
 - `Vector`: ElasticSearch
 - `Message Queues`: SQS
 
 ### DevOps
-- `Infrastructure`: AWS, GitLab, GitHub, Nginx
+- `Infrastructure`: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="20"> Git, AWS, GitLab, GitHub, Nginx
 - `Virtualization`: Docker
 - `CI/CD`: Github Actions, ECS, Pipeline/Deploy
+
+### Spoken languages
+- `English` ![](https://geps.dev/progress/50)
+- `Tamil` ![](https://geps.dev/progress/100)
+
+---
 
 ## 💼 Career Highlights
 
@@ -70,3 +76,6 @@ Worked on multiple projects and worked in startups, corporates. 🚀
   </tr>
 <tr>
 </table>
+
+# Get in touch
+*vignesh.hello@gmail.com*

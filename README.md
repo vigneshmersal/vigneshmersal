@@ -15,11 +15,38 @@ Passionate about building web apps with Laravel.
 
 Worked on multiple projects and worked in startups, corporates. 🚀
 
-### 💼 Career Highlights
+# Skills
+
+### Backend
+- `Technology`: REST
+- `Frameworks`: Laravel
+- `Authentication`: SSO/OAUTH 2.0, Passport, JWT, Sanctum
+- `Caching`: Redis
+- `Template Engine`: Blade
+- `OS`: Linux, Windows, Mac
+
+### Frontend
+- `Basics`: HTML, CSS, JavaScript
+- `Netword Utilities`: Axios, Fetch, Postman
+- `Styles`: Tailwind, Bootstrap, SASS/SCSS
+
+### Database
+- `SQL`: MySQL, Redis
+- `NoSQL`: ElasticSearch
+- `Cloud`: RDS
+- `Vector`: ElasticSearch
+- `Message Queues`: SQS
+
+### DevOps
+- `Infrastructure`: AWS, GitLab, GitHub, Nginx
+- `Virtualization`: Docker
+- `CI/CD`: Github Actions, ECS, Pipeline/Deploy
+
+## 💼 Career Highlights
 
 ⚡ Laravel Backend Developer at [QBURST](https://www.qburst.com/en-in/) <br>
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Livewire](https://img.shields.io/badge/Livewire-%23DA558C.svg?style=for-the-badge&logo=livewire&logoColor=white) ![Alpine.js](https://img.shields.io/badge/Alpine.js-%2377C1D2.svg?style=for-the-badge&logo=alpine.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-%233FB27F.svg?style=for-the-badge&logo=vue.js&logoColor=white)
 
 📊 GitHub Metrics

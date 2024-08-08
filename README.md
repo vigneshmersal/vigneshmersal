@@ -19,19 +19,20 @@ Worked on multiple projects and worked in startups, corporates. 🚀
 
 ### Backend
 - `Technology`: REST
-- `Frameworks`: Laravel
+- `Frameworks`: Laravel ![](https://geps.dev/progress/80)
 - `Authentication`: SSO/OAUTH 2.0, Passport, JWT, Sanctum
 - `Caching`: Redis
 - `Template Engine`: Blade
 - `OS`: Linux, Windows, Mac
 
 ### Frontend
-- `Basics`: HTML, CSS, JavaScript
-- `Netword Utilities`: Axios, Fetch, Postman
-- `Styles`: Tailwind, Bootstrap, SASS/SCSS
+- `Basics`: HTML ![](https://geps.dev/progress/90), CSS ![](https://geps.dev/progress/90), JavaScript ![](https://geps.dev/progress/80)
+- `Netword Utilities`: Axios ![](https://geps.dev/progress/80), Fetch ![](https://geps.dev/progress/80), Postman ![](https://geps.dev/progress/70)
+- `Styles`: Tailwind ![](https://geps.dev/progress/60), Bootstrap ![](https://geps.dev/progress/70), SASS/SCSS
+- `Frameworks`: Vue.js ![](https://geps.dev/progress/20)
 
 ### Database
-- `SQL`: MySQL, Redis
+- `SQL`: MySQL ![](https://geps.dev/progress/80) , Redis
 - `NoSQL`: ElasticSearch
 - `Cloud`: RDS
 - `Vector`: ElasticSearch

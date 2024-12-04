@@ -44,7 +44,7 @@ Worked on multiple projects and worked in startups, corporates. 🚀
 - `CI/CD`: Github Actions, ECS, Pipeline/Deploy
 
 ### Spoken languages
-- `English` ![](https://geps.dev/progress/50)
+- `English` ![](https://geps.dev/progress/80)
 - `Tamil` ![](https://geps.dev/progress/100)
 
 ---

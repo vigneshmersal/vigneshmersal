@@ -6,8 +6,6 @@
 
 💞️ I’m looking to collaborate on WFH Jobs
 
-📫 vignesh.hello@gmail.com
-
 ## ✨ Laravel Backend Developer ✨
 
 Experienced developer located in tiruchengode, Tamilnadu, India with over 7+ years of experience. <br>
@@ -78,4 +76,4 @@ Worked on multiple projects and worked in startups, corporates. 🚀
 </table>
 
 # Get in touch
-*vignesh.hello@gmail.com*
+📫 *vignesh.hello@gmail.com*

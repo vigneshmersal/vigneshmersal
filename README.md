@@ -1,23 +1,28 @@
 👋 Hi, I’m @vignesh ❤
 
-👀 I’m interested in Web Development
+👀 I’m interested in Laravel Web Development
 
-🌱 I’m currently learning Fullstack development
+🌱 Address: Tiruchengode, Tamilnadu, India.
 
-💞️ I’m looking to collaborate on WFH Jobs
+💞️ I’m looking to collaborate on WFH Job
+
+🚀 Worked on multiple projects and worked in startups and corporates. 
 
 ## ✨ Laravel Backend Developer ✨
 
-Experienced developer located in tiruchengode, Tamilnadu, India with over 7+ years of experience. <br>
-Passionate about building web apps with Laravel.
+- I have a strong background as a Laravel backend web developer with over 7 years 10 Months of experience, with specializing in delivering high-quality solutions.
+  
+- Expertise in MySQL, API integration, eCommerce, and logistics software development.
 
-Worked on multiple projects and worked in startups, corporates. 🚀
+- Proficient in Object-Oriented Programming (OOP) principles and adept at implementing MVC architecture, caching mechanisms, version control (Git), and Linux systems.
+
+- Highly skilled in MySQL database design, management, and query optimization.
 
 # Skills
 
 ### Backend
-- `Technology`: REST
 - `Frameworks`: Laravel ![](https://geps.dev/progress/80)
+- `Technology`: REST
 - `Authentication`: SSO/OAUTH 2.0, Passport ![](https://geps.dev/progress/80), JWT, Sanctum ![](https://geps.dev/progress/80)
 - `Caching`: Redis
 - `Template Engine`: Blade ![](https://geps.dev/progress/90)
@@ -49,7 +54,27 @@ Worked on multiple projects and worked in startups, corporates. 🚀
 
 ## 💼 Career Highlights
 
-⚡ Laravel Backend Developer at [QBURST](https://www.qburst.com/en-in/) <br>
+⚡ Senior Laravel Web Developer at [QBURST](https://www.qburst.com/en-in/) [10/2022 - 12/2024] [Chennai, India]
+- `TLSM IoT`: Developed admin pages for monitoring security alarm devices in the Tower Line Security Monitoring System.
+
+⚡ Senior Laravel Web Developer at [Mallow Technologies Private Limited](https://mallow-tech.com/) [09/2021 - 09/2022] [Karur, India]
+- `RedTaxi`: Developed and maintained backend for a taxi service.
+
+⚡ Laravel Web Developer at [Guidely](https://guidely.in/) [06/2020 - 07/2021] [Erode, India]
+- `Guidely`: Created backend admin pages and RESTful APIs for a banking and government exam preparation website.
+
+⚡ Laravel Web Developer at [Dreamguy's Technologies Limited](https://dreamstechnologies.com/) [08/2019 - 04/2020] [Coimbatore, India]
+- `Doccure`: Developed an online doctor consultation website.
+- `BestatLaundry`: Developed a laundry service website.
+
+⚡ Laravel Web Developer at [Rathira Ayurveda](https://www.rathiraayurveda.com/) [11/2018 - 07/2019] [Coimbatore, India]
+- `ThunderMile`: Developed an eCommerce logistics application.
+- Built a logistics courier service app using React Native.
+
+⚡ Junior PHP Web Developer at [HIOX India](https://www.hioxindia.com/) [09/2016 - 10/2018] [Coimbatore, India]
+- Developed and maintained a retail shop application.
+- Built a canvas image editor tool using jQuery.
+- `BForBall`: Developed an backend admin pages.
 
 ## 🛠️ Tech Stack
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Livewire](https://img.shields.io/badge/Livewire-%23DA558C.svg?style=for-the-badge&logo=livewire&logoColor=white) ![Alpine.js](https://img.shields.io/badge/Alpine.js-%2377C1D2.svg?style=for-the-badge&logo=alpine.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-%233FB27F.svg?style=for-the-badge&logo=vue.js&logoColor=white)
@@ -75,5 +100,7 @@ Worked on multiple projects and worked in startups, corporates. 🚀
 <tr>
 </table>
 
-# Get in touch
+# Get In Touch
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vignesh-venkatachalam-1bb763aa/)
+
 📫 *vignesh.hello@gmail.com*

@@ -55,26 +55,26 @@
 ## 💼 Career Highlights
 
 ⚡ Senior Laravel Web Developer at [QBURST](https://www.qburst.com/en-in/) [10/2022 - 12/2024] [Chennai, India]
-- `TLSM IoT`: Developed admin pages for monitoring security alarm devices in the Tower Line Security Monitoring System.
+- `TLSM IoT`: Developed admin pages for monitoring security alarm devices in the Tower Line Security Monitoring System using LARAVEL.
 
 ⚡ Senior Laravel Web Developer at [Mallow Technologies Private Limited](https://mallow-tech.com/) [09/2021 - 09/2022] [Karur, India]
-- `RedTaxi`: Developed and maintained backend for a taxi service.
+- `RedTaxi`: Developed and maintained backend for a taxi service application using LARAVEL.
 
 ⚡ Laravel Web Developer at [Guidely](https://guidely.in/) [06/2020 - 07/2021] [Erode, India]
-- `Guidely`: Created backend admin pages and RESTful APIs for a banking and government exam preparation website.
+- `Guidely`: Created backend admin pages and RESTful APIs for a banking and government exam preparation website using LARAVEL.
 
 ⚡ Laravel Web Developer at [Dreamguy's Technologies Limited](https://dreamstechnologies.com/) [08/2019 - 04/2020] [Coimbatore, India]
-- `Doccure`: Developed an online doctor consultation website.
-- `BestatLaundry`: Developed a laundry service website.
+- `Doccure`: Developed an online doctor consultation website using LARAVEL framework.
+- `BestatLaundry`: Worked on a laundry service website backend team using LARAVEL framework.
 
 ⚡ Laravel Web Developer at [Rathira Ayurveda](https://www.rathiraayurveda.com/) [11/2018 - 07/2019] [Coimbatore, India]
-- `ThunderMile`: Developed an eCommerce logistics application.
-- Built a logistics courier service app using React Native.
+- `ThunderMile`: Developed an eCommerce logistics application using LARAVEL Nova.
+- Built a logistics courier service mobile (android/ios) App using REACT NATIVE framework.
 
 ⚡ Junior PHP Web Developer at [HIOX India](https://www.hioxindia.com/) [09/2016 - 10/2018] [Coimbatore, India]
-- Developed and maintained a retail shop application.
-- Built a canvas image editor tool using jQuery.
-- `BForBall`: Developed an backend admin pages.
+- Developed and maintained a retail shop application using CORE PHP.
+- Built a canvas image editor tool using JAVASCRIPT & JQUERY.
+- `BForBall`: Developed an backend admin pages using CORE PHP.
 
 ## 🛠️ Tech Stack
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Livewire](https://img.shields.io/badge/Livewire-%23DA558C.svg?style=for-the-badge&logo=livewire&logoColor=white) ![Alpine.js](https://img.shields.io/badge/Alpine.js-%2377C1D2.svg?style=for-the-badge&logo=alpine.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-%233FB27F.svg?style=for-the-badge&logo=vue.js&logoColor=white)

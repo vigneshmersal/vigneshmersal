@@ -32,7 +32,7 @@
 - `Basics`: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20"> HTML ![](https://geps.dev/progress/90), <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="20"> CSS ![](https://geps.dev/progress/90), <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20"> JavaScript ![](https://geps.dev/progress/80)
 - `Netword Utilities`: Axios ![](https://geps.dev/progress/80), Fetch ![](https://geps.dev/progress/80), <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="20"/> Postman ![](https://geps.dev/progress/70)
 - `Styles`: <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="20"> Tailwind ![](https://geps.dev/progress/60), <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="20"> Bootstrap ![](https://geps.dev/progress/70), <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="20"> SASS/SCSS
-- `Frameworks`: Vue.js ![](https://geps.dev/progress/20)
+- `Frameworks`: Vue.js ![](https://geps.dev/progress/50)
 
 ### Database
 - `SQL`: MySQL ![](https://geps.dev/progress/80), Redis ![](https://geps.dev/progress/70)

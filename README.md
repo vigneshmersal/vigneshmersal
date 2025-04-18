@@ -18,6 +18,16 @@
 
 - Highly skilled in MySQL database design, management, and query optimization.
 
+## 🛠️ Tech Stack
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-%23DA558C.svg?style=for-the-badge&logo=livewire&logoColor=white)
+![Alpine.js](https://img.shields.io/badge/Alpine.js-%2377C1D2.svg?style=for-the-badge&logo=alpine.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-%233FB27F.svg?style=for-the-badge&logo=vue.js&logoColor=white)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,sqlite,html,css,js,bootstrap,tailwind,jquery,alpinejs,vue,pinia,vite,redis,git,github,gitlab,bitbucket,vscode,sublime,postman,aws,c,cpp,docker,vim,nginx,npm,windows,apple,linux&perline=16&theme=dark" />
+</p>
+
 # Skills
 
 ### Backend
@@ -75,9 +85,6 @@
 - Developed and maintained a retail shop application using CORE PHP.
 - Built a canvas image editor tool using JAVASCRIPT & JQUERY.
 - `BForBall`: Developed an backend admin pages using CORE PHP.
-
-## 🛠️ Tech Stack
-![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Livewire](https://img.shields.io/badge/Livewire-%23DA558C.svg?style=for-the-badge&logo=livewire&logoColor=white) ![Alpine.js](https://img.shields.io/badge/Alpine.js-%2377C1D2.svg?style=for-the-badge&logo=alpine.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-%233FB27F.svg?style=for-the-badge&logo=vue.js&logoColor=white)
 
 # Get In Touch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vignesh-venkatachalam-1bb763aa/)
